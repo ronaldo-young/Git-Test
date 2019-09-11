@@ -1,3 +1,8 @@
 ccasfasdc
+<<<<<<< HEAD
 aaasadafsafdfa
 
+=======
+aaasdfa
+dfkfldjfdl
+>>>>>>> 781395b32af7ed06205c2aef943ccb85a358f497
